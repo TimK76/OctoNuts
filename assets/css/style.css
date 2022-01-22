@@ -8,7 +8,7 @@ body {
     background-color: #9b9e99;
     color: #ffffff;
 }
-
+/* --BEGIN HEADER--*/
 header {
     background-color: #2a607c;
     padding: 20px 35px;
@@ -44,6 +44,7 @@ p {
     font-size: 16px;
 }
 
+/* --END HEADER AND BEGIN HERO--*/
 .hero {
     height: 800px;
     width: 100%;
@@ -53,18 +54,7 @@ p {
     background-position: center;
 }
 
-.text-left {
-    float: left;
-    padding: 10px; 
-    margin: 25px;
-    text-align: left;
-}
-
-.float-right {
-    float: right;
-    margin-right: 40px;
-    text-align: left;
-}
+/*--END HERO AND BEGIN CONTENT--*/
 
 .content {
     position: relative;
@@ -101,10 +91,24 @@ p {
     padding-right: 30px;
 }
 
+.text-left {
+    float: left;
+    padding: 10px; 
+    margin: 25px;
+    text-align: left;
+}
+
+.float-right {
+    float: right;
+    margin-right: 40px;
+    text-align: left;
+}
+
 #image-right {
     float: right;
 }
-/* Need to change all benefits to work with aside. */ 
+
+/*---END CONTENT & BEGIN ASIDE---*/
 
 .benefits {
     position: absolute;
@@ -166,7 +170,7 @@ p {
     max-width: 150px;
 }
 
-
+/*---END ASIDE & BEGIN FOOTER---*/
 footer {
     background-color: #2a607c;
     padding: 30px;
