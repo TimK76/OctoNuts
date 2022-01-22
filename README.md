@@ -16,7 +16,7 @@ Then I made the final "div" into the "footer".
 For the CSS I did consolidate a lot. To be honest, I broke it at first and had to go back and fix things that I broke. For example, the section that I had labeled as the aside would not align with the top of the section to its left. It kept aligning with the bottom most part of that section. Then I went to class and we talked about positioning and I didn't understand that very well but tried to work with it and was able to get it looking good again. But that took a lot of time.
 
 ## Screenshot
-![screenshot]()
+![screenshot](https://github.com/TimK76/OctoNuts/blob/main/assets/images/Screenshot.jpg)
 
 
 ### link
